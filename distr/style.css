@@ -1,0 +1,10 @@
+@font-face {
+    font-family: Anivers;
+    src: url('Anivers-Regular.ttf');
+}
+
+body {
+    color: green;
+    background: black;
+    font-family: Anivers;
+}
